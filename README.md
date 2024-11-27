@@ -10,7 +10,7 @@ Aplicación backend que permite realizar bússquedas de canciones usando la API 
 
 ## Crea las variables de entorno en el archivo `.env`
 
-* MONGO_URI : Coneción con MongoDB
+* MONGO_URI : Conexión con MongoDB
 * JWT_SECRET : Palabra secreta de jsonwebtoken
 
 ### `npm i`
